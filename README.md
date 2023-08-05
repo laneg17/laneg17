@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name's Lane, welcome to my Github profile! 👋
 
 <!--
 **laneg17/laneg17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
