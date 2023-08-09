@@ -1,16 +1,16 @@
-### My name's Lane, welcome to my Github profile! 👋
+### My name's Lane, I am a Programmer and a 3D Artist.
 
-<!--
-**laneg17/laneg17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience in many programming languages, including CG (HLSL) for creating shaders in Unity. I enjoy developing tools that makes my job as an artist easier. 
 
-Here are some ideas to get you started:
+An example of a tool I've created is my Unity Runtime Animation Tester. I developed the tool because I wanted a very fast way to see how my animations look in game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Proficiency:
+* C#
+* Java
+* Python
+* GML
+* HLSL (CG)
+* HTML
+* SQL
+* Turing
+* Visual Basic 6
